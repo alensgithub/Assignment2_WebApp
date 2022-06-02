@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: alensgithubassignmentwebapp 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: alensgithubassignmentwebapp
+  template:
+    metadata:
+      labels:
+        app: alensgithubassignmentwebapp 
+    spec:
+      containers:
+        - name: alensgithubassignmentwebapp 
+          image: webappregistry1.azurecr.io/alensgithubassignmentwebapp
+          ports:
+          - containerPort: 8080
