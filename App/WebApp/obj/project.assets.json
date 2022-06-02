@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\Local\\alen.jose\\WebApp_CS7504_Assignment2\\WebApp\\WebApp_CS7504_Assignment2.csproj",
+      "projectUniqueName": "Z:\\Local\\alen.jose\\WebApp_CS7504_Assignment2\\App\\WebApp\\WebApp_CS7504_Assignment2.csproj",
       "projectName": "WebApp_CS7504_Assignment2",
-      "projectPath": "Z:\\Local\\alen.jose\\WebApp_CS7504_Assignment2\\WebApp\\WebApp_CS7504_Assignment2.csproj",
+      "projectPath": "Z:\\Local\\alen.jose\\WebApp_CS7504_Assignment2\\App\\WebApp\\WebApp_CS7504_Assignment2.csproj",
       "packagesPath": "C:\\Users\\alen.jose\\.nuget\\packages\\",
-      "outputPath": "Z:\\Local\\alen.jose\\WebApp_CS7504_Assignment2\\WebApp\\obj\\",
+      "outputPath": "Z:\\Local\\alen.jose\\WebApp_CS7504_Assignment2\\App\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
