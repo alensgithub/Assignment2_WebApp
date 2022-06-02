@@ -14,7 +14,7 @@ spec:
         app: webapp
     spec:
       containers:
-      - name: WebApp
+      - name: webapp
         image: alenjose10/webappimage:v1
         ports:
         - containerPort: 80
